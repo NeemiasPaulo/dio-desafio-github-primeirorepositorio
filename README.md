@@ -1,4 +1,4 @@
-# dio-desafio-github-primeirorepositorio
+# dio-desafio-github-PrimeiroRepositório
 repositório do projeto de estudo sobre git/github
 
 ## links úteis
